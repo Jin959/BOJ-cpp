@@ -10,7 +10,7 @@
 |[Graph, BFS, DFS](https://github.com/Jin959/BOJ-cpp/tree/master/Graph)| [연결요소의 개수](https://www.acmicpc.net/problem/11724), [N-Queen](https://www.acmicpc.net/problem/9663), [나이트의 이동](https://www.acmicpc.net/problem/7562), [알파벳](https://www.acmicpc.net/problem/1987) |
 |[Flood Fill](https://github.com/Jin959/BOJ-cpp/tree/master/FloodFill)| [미로탐색](https://www.acmicpc.net/problem/2178), [음식물피하기](https://www.acmicpc.net/problem/1743), |
 |[Dijkstra]()| |
-|[MST](https://github.com/Jin959/BOJ-cpp/tree/master/MST)| [네트워크 연결](https://www.acmicpc.net/problem/1922), [우주신과의 교감](https://www.acmicpc.net/problem/1774)|
+|[MST](https://github.com/Jin959/BOJ-cpp/tree/master/MST)| [네트워크 연결](https://www.acmicpc.net/problem/1922), [도시건설](https://www.acmicpc.net/problem/21924), [우주신과의 교감](https://www.acmicpc.net/problem/1774)|
 |[Sort]()| |
 |[Binary Search, Parametric Search](https://github.com/Jin959/BOJ-cpp/tree/master/BinarySearch)|[나무 자르기](https://www.acmicpc.net/problem/2805), [게임](https://www.acmicpc.net/problem/1072) |
 |[Hash](https://github.com/Jin959/BOJ-cpp/tree/master/Hash)|[사각형 네번째 점](https://www.acmicpc.net/problem/3009), [나머지](https://www.acmicpc.net/problem/3052)|
