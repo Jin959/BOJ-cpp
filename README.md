@@ -9,7 +9,7 @@
 |[Brute Force](https://github.com/Jin959/BOJ-cpp/tree/master/Recursion)| [부분수열의 합](https://www.acmicpc.net/problem/1182), [체스판 다시 칠하기](https://www.acmicpc.net/problem/1018) |
 |[Graph, BFS, DFS](https://github.com/Jin959/BOJ-cpp/tree/master/Graph)| [연결요소의 개수](https://www.acmicpc.net/problem/11724), [N-Queen](https://www.acmicpc.net/problem/9663), [나이트의 이동](https://www.acmicpc.net/problem/7562), [알파벳](https://www.acmicpc.net/problem/1987), [바이러스](https://www.acmicpc.net/problem/2606), [결혼식](https://www.acmicpc.net/problem/5567)|
 |[Flood Fill](https://github.com/Jin959/BOJ-cpp/tree/master/FloodFill)| [미로탐색](https://www.acmicpc.net/problem/2178), [음식물피하기](https://www.acmicpc.net/problem/1743), |
-|[Dijkstra]()| |
+|[Dijkstra](https://github.com/Jin959/BOJ-cpp/tree/master/Dijkstra)| [최단경로](https://www.acmicpc.net/problem/1753), [녹색 옷 입은 애가 젤다지?](https://www.acmicpc.net/problem/4485) |
 |[MST](https://github.com/Jin959/BOJ-cpp/tree/master/MST)| [네트워크 연결](https://www.acmicpc.net/problem/1922), [도시건설](https://www.acmicpc.net/problem/21924), [우주신과의 교감](https://www.acmicpc.net/problem/1774)|
 |[Sort]()| |
 |[Binary Search, Parametric Search](https://github.com/Jin959/BOJ-cpp/tree/master/BinarySearch)|[나무 자르기](https://www.acmicpc.net/problem/2805), [게임](https://www.acmicpc.net/problem/1072) |
