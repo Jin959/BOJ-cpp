@@ -15,7 +15,7 @@
 |Priority Queue| |
 |[Dijkstra](https://github.com/Jin959/BOJ-cpp/tree/master/Dijkstra)| [최단경로](https://www.acmicpc.net/problem/1753), [녹색 옷 입은 애가 젤다지?](https://www.acmicpc.net/problem/4485) |
 |[Union & Find (Disjoint Set)](https://github.com/Jin959/BOJ-cpp/tree/master/UnionFind)| [여행 가자](https://www.acmicpc.net/problem/1976) |
-|[MST](https://github.com/Jin959/BOJ-cpp/tree/master/MST)| [네트워크 연결](https://www.acmicpc.net/problem/1922), [도시건설](https://www.acmicpc.net/problem/21924), [우주신과의 교감](https://www.acmicpc.net/problem/1774)|
+|[MST](https://github.com/Jin959/BOJ-cpp/tree/master/MST)| [네트워크 연결](https://www.acmicpc.net/problem/1922), [도시건설](https://www.acmicpc.net/problem/21924), [우주신과의 교감](https://www.acmicpc.net/problem/1774), [상근이의 여행](https://www.acmicpc.net/problem/9372)|
 |[Binary Search, Parametric Search](https://github.com/Jin959/BOJ-cpp/tree/master/BinarySearch)|[나무 자르기](https://www.acmicpc.net/problem/2805), [게임](https://www.acmicpc.net/problem/1072) |
 |[Hash](https://github.com/Jin959/BOJ-cpp/tree/master/Hash)|[사각형 네번째 점](https://www.acmicpc.net/problem/3009), [나머지](https://www.acmicpc.net/problem/3052)|
 |Data Structure| |
